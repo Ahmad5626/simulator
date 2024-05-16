@@ -1,0 +1,216 @@
+.heading-36 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 60px;
+  font-weight: 600;
+  font-family: inherit;
+}
+.a-unique-blend {
+  width: 982px;
+  position: relative;
+  letter-spacing: 0.04em;
+  display: inline-block;
+  flex-shrink: 0;
+  max-width: 100%;
+}
+.a-unique-blend-of-immersive-te-wrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-3xl);
+  color: var(--color-gray-500);
+  font-family: var(--font-poppins);
+}
+.heading-3-integrate-into-you-parent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-xl);
+  max-width: 100%;
+}
+.hardware {
+  flex: 1;
+  position: relative;
+  font-size: var(--font-size-5xl);
+  letter-spacing: 0.05em;
+  line-height: 19px;
+  font-weight: 600;
+  font-family: var(--font-saira-condensed);
+  color: var(--color-white);
+  text-align: center;
+}
+.button7 {
+  cursor: pointer;
+  border: 1px solid var(--color-cornflowerblue);
+  padding: var(--padding-xs) var(--padding-4xl);
+  background-color: var(--color-gray-100);
+  width: 159px;
+  box-shadow: 0 0 20px #369afc inset;
+  border-radius: var(--br-13xl);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button7:hover {
+  background-color: var(--color-darkslategray-200);
+  border: 1px solid var(--color-dodgerblue-100);
+  box-sizing: border-box;
+}
+.softwares {
+  flex: 1;
+  position: relative;
+  letter-spacing: 0.05em;
+  line-height: 19px;
+  font-weight: 600;
+}
+.button-group,
+.button8,
+.frame-wrapper5 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+.button8 {
+  flex: 1;
+  border-radius: var(--br-13xl);
+  justify-content: flex-start;
+  padding: var(--padding-sm) var(--padding-5xl);
+  min-width: 135px;
+}
+.button-group,
+.frame-wrapper5 {
+  max-width: 100%;
+}
+.button-group {
+  width: 411px;
+  backdrop-filter: blur(88.9px);
+  border-radius: var(--br-101xl);
+  background: linear-gradient(
+    88.69deg,
+    rgba(255, 255, 255, 0.1),
+    rgba(153, 153, 153, 0.3)
+  );
+  border: 1px solid var(--color-white);
+  flex-wrap: wrap;
+  justify-content: flex-start;
+  padding: var(--padding-3xs) var(--padding-2xs);
+  gap: var(--gap-2xl);
+}
+.frame-wrapper5 {
+  align-self: stretch;
+  justify-content: center;
+  padding: 0 var(--padding-xl) 0 var(--padding-2xl);
+}
+.htc-vive-meta {
+  position: relative;
+  font-size: var(--font-size-3xl);
+  line-height: 27px;
+  font-weight: 500;
+  font-family: var(--font-barlow);
+}
+.frame-parent12 {
+  width: 608px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-28xl);
+  max-width: 100%;
+}
+.frame-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-13xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  font-size: var(--font-size-5xl);
+  color: var(--color-white);
+  font-family: var(--font-saira-condensed);
+}
+.image-31-icon,
+.image-34-icon {
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  object-fit: cover;
+  min-width: 188px;
+  min-height: 244px;
+}
+.image-34-icon {
+  object-fit: contain;
+  min-height: 243px;
+  z-index: 1;
+}
+.frame-wrapper6,
+.image-31-parent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  max-width: 100%;
+}
+.image-31-parent {
+  width: 635px;
+  flex-wrap: wrap;
+  gap: var(--gap-38xl);
+}
+.frame-wrapper6 {
+  width: 875px;
+  padding: 0 var(--padding-xl);
+  box-sizing: border-box;
+}
+.frame-parent11 {
+  width: 1202px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-25xl);
+  max-width: 100%;
+  text-align: center;
+  font-size: var(--font-size-31xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-barlow);
+}
+@media screen and (max-width: 1050px) {
+  .heading-36 {
+    font-size: var(--font-size-21xl);
+    line-height: 48px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading-36 {
+    font-size: var(--font-size-11xl);
+    line-height: 36px;
+  }
+  .a-unique-blend {
+    font-size: var(--font-size-lg);
+  }
+  .hardware,
+  .softwares {
+    font-size: var(--font-size-lgi);
+    line-height: 54px;
+  }
+  .htc-vive-meta {
+    font-size: var(--font-size-lg);
+    line-height: 22px;
+  }
+}
